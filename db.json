@@ -1,0 +1,202 @@
+{
+  "pins": [
+    {
+      "id": 1,
+      "coordinates": [
+        -77.03238901390978,
+        38.913188059745586
+      ],
+      "description": "Construction on the Washington Monument began in 1848.",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg"
+    },
+    {
+      "id": 2,
+      "coordinates": [
+        -122.414,
+        37.776
+      ],
+      "description": "Construction on the Washington Monument began in 1848.",
+      "img_url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/54936725/shutterstock_529749235.1495670520.jpg"
+    },
+    {
+      "coordinates": [
+        -74.74328125000035,
+        42.00647125194567
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 3
+    },
+    {
+      "coordinates": [
+        -79.96757243855014,
+        34.427944320305855
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 4
+    },
+    {
+      "coordinates": [
+        -110.83285771921696,
+        44.913661598224934
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 5
+    },
+    {
+      "coordinates": [
+        -80.0840527828829,
+        34.83080988803144
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 6
+    },
+    {
+      "coordinates": [
+        -75.49379321410443,
+        42.06515678254581
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 7
+    },
+    {
+      "coordinates": [
+        -75.92980468749994,
+        42.071746547955144
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 8
+    },
+    {
+      "coordinates": [
+        -75.7540234375,
+        42.136954784578904
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 9
+    },
+    {
+      "coordinates": [
+        -76.8966015625002,
+        38.8632604799555
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 10
+    },
+    {
+      "coordinates": [
+        -80.32433593750024,
+        35.14464247840105
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 11
+    },
+    {
+      "coordinates": [
+        -79.4299884538549,
+        36.15479692399212
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 12
+    },
+    {
+      "coordinates": [
+        -111.45363471618613,
+        44.779603527241306
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 13
+    },
+    {
+      "coordinates": [
+        -75.44547947190625,
+        44.14767409889086
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 14
+    },
+    {
+      "coordinates": [
+        -76.47850031907787,
+        39.41938088655269
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 15
+    },
+    {
+      "coordinates": [
+        -70.04113281250018,
+        45.61982246847782
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 16
+    },
+    {
+      "coordinates": [
+        -68.28042038762902,
+        33.998948945328465
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 17
+    },
+    {
+      "coordinates": [
+        -95.93387681132972,
+        36.84694809514053
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 18
+    },
+    {
+      "coordinates": [
+        -98.89860430465845,
+        44.69036363498185
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 19
+    },
+    {
+      "coordinates": [
+        -89.26323995134085,
+        53.25629893963975
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 20
+    },
+    {
+      "coordinates": [
+        -109.76927178019578,
+        34.844490938524785
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 21
+    },
+    {
+      "coordinates": [
+        -115.69872676685279,
+        52.51089581733385
+      ],
+      "description": "lorem impsum",
+      "img_url": "https://docs.mapbox.com/mapbox-gl-js/assets/washington-monument.jpg",
+      "id": 22
+    }
+  ]
+}
